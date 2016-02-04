@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ilogic]]></title>
         <description><![CDATA[ilogic]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ilogic.com.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 17:19:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Feb 2016 17:23:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ilogic.com.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/860d3130-6d89-4f1c-8f06-505056d6300a.jpg" alt="" title="">]]></description>
-            <link>undefined63cdf159-b0b6-4261-9fc9-e19631d3f5a3/index.html</link>
+            <link>https://thegrid.ai/ilogic.com.co/63cdf159-b0b6-4261-9fc9-e19631d3f5a3/index.html</link>
             <guid isPermaLink="false">63cdf159-b0b6-4261-9fc9-e19631d3f5a3</guid>
-            <pubDate>Thu, 04 Feb 2016 17:16:56 GMT</pubDate>
+            <pubDate>Thu, 04 Feb 2016 17:22:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
