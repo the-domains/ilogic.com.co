@@ -1,0 +1,28 @@
+name: ilogic
+favicon: null
+layout_spectrum: 0.19243850326165557
+typography_spectrum: 0.2592013436369598
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.43443700368516147
+  lightness: 0.46617680485360324
+  saturation: 0.46865783422254026
+  rhythmicContrast: 0.646971493260935
+purpose: []
