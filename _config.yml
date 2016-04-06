@@ -1,4 +1,4 @@
-name: AWEsome
+name: iLOGIC
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.24228
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#dc853a'
-    - '#000000'
-    - '#ffffff'
-    - '#ff0000'
-    - '#ffff00'
+    - '#f18226'
+    - '#231c24'
+    - '#f9f9f7'
+    - '#6c4a6d'
+    - '#83c8d8'
   brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
